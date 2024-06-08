@@ -52,7 +52,8 @@ Explore our dynamic Power BI dashboard featuring:
 - **🌍 Expanded Dataset**: Add more cryptocurrencies and financial metrics for comprehensive analysis.
 
 ## 👥 Contributors
--  Narendra Eluri - Master Trainer for Data Analytics and Project Lead
+-  Harsh Sulya - Project Lead
+-  Narendra Eluri - Master Trainer for Data Analytics and Power Bi Expert
 
 ## 📜 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute this project under the terms of the license.
