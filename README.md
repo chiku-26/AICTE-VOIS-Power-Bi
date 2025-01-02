@@ -2,17 +2,6 @@
 
 ![Cryptocurrency](https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg)
 
-## 📚 Table of Contents
-1. [📄 Project Overview](#-project-overview)
-2. [📊 Dataset](#-dataset)
-3. [🛠️ Data Preparation](#%EF%B8%8F-data-preparation)
-4. [📈 Power BI Dashboard](#-power-bi-dashboard)
-5. [🔍 Analysis and Insights](#-analysis-and-insights)
-6. [🖱️ How to Use](#%EF%B8%8F-how-to-use)
-7. [🚀 Future Work](#-future-work)
-8. [👥 Contributors](#-contributors)
-9. [📜 License](#-license)
-
 ## 📄 Project Overview
 Welcome to the Cryptocurrency Analysis Project! Over the past 9 years, the world of cryptocurrency has seen immense growth, volatility, and innovation. This project leverages Power BI to dive deep into these trends and provide valuable insights into the market's behavior.
 
